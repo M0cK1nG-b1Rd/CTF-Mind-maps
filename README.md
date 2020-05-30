@@ -1,4 +1,4 @@
-# CTF_Mind_map_for_several_direction
+# CTF-Mind-maps
 
 本项目旨在为入门或刚入门的CTFer们提供一个比较良好的解题思路，所以整合了各方向入门到中高级题目的思路
 
